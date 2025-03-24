@@ -13,7 +13,7 @@ const pageAboutMe = () => {
         <Avatar />
         <h1
           className="text-2xl leading-tight text-center 
-        md:text-left md:mt-10"
+        md:text-left md:mt-5 "
         >
           Toda mi{" "}
           <span className="font-bold text-orange-600">

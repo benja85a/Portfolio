@@ -4,10 +4,10 @@ import React from "react";
 const timeLine = () => {
   return (
     <div className="flex flex-col mb-10 justify-center divide-y divide-amber-200">
-      <div className="w-full  max-w-3xl mx-auto md:pt-20">
+      <div className="w-full  max-w-3xl mx-auto md:pt-5 md:pb-5">
         <div className="my-9">
           {dataAboutPage.map((data) => (
-            <div key={data.id} className="relative py-6 pl-8 sm:pl-50 mb-6">
+            <div key={data.id} className="relative py-6 pl-8 sm:pl-50">
               <h1 className="mb-1 text-2xl font-bold sm:mb-0">{data.title}</h1>
               <div
                 className="flex flex-col sm:flex-row items-start mb-1 

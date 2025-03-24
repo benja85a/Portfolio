@@ -80,35 +80,35 @@ export const itemsNavbar = [
 export const dataAboutPage = [
   {
     id: 1,
-    title: "Frontend Developer",
-    subtitle: "TechSolutions",
+    title: "Desarrollador Frontend Junior",
+    subtitle: "Ministerio de Salud",
     description:
-      "Colabora con un equipo dinámico para desarrollar interfaces de usuario atractivas y funcionales que impulsen el éxito de nuestros clientes en el mundo digital.",
-    date: "Nov 2023 ",
+      "Diseñé e implementé interfaces interactivas con ReactJS, VueJS y NextJS, mejorando la usabilidad y accesibilidad. Optimizé el rendimiento de aplicaciones web, reduciendo tiempos de carga y colaborando con equipos multidisciplinarios para desarrollar soluciones escalables.",
+    date: "2022 - 2024",
   },
   {
     id: 2,
-    title: "Creador de Experiencias Digitales",
-    subtitle: "PixelCrafters",
+    title: "Desarrollador de Interfaces y Experiencias Digitales",
+    subtitle: "Freelance & Proyectos Personales",
     description:
-      "Trabaja en proyectos emocionantes que desafían los límites de la creatividad y la tecnología. Únete a nosotros mientras creamos experiencias digitales cautivadoras que inspiran y cautivan a nuestros usuarios.",
-    date: "May 2021",
+      "Lideré el diseño y desarrollo de plataformas web utilizando tecnologías modernas como ReactJS, VueJS, TypeScript y NodeJS. Implementé dashboards interactivos con gráficos dinámicos, sistemas de autenticación segura y aplicaciones escalables optimizadas para el rendimiento.",
+    date: "2021",
   },
   {
     id: 3,
     title: "Especialista en Desarrollo Frontend",
-    subtitle: "CodeForge Solutions",
+    subtitle: "Proyectos de Alto Impacto",
     description:
-      "Como desarrollador frontend, tendrás la oportunidad de colaborar en proyectos diversos y desafiantes que te permitirán expandir tus habilidades y dejar tu huella en el mundo digital.",
-    date: "Ago 2019",
+      "Desarrollé soluciones personalizadas, incluyendo e-commerce con integración de pagos, sistemas de gestión de inventarios y plataformas de reservas en línea. Utilicé herramientas como Firebase, Stripe API y Prisma para garantizar una experiencia óptima y segura.",
+    date: "2019 ",
   },
   {
     id: 4,
     title: "Prácticas Grado",
-    subtitle: "WebWizards Inc.",
+    subtitle: "Universidad Francisco Gavidia",
     description:
-      "Únete a nosotros mientras creamos sitios web y aplicaciones interactivas que sorprenden y deleitan a nuestros clientes. Si tienes pasión por el diseño y la programación, y disfrutas colaborar en un entorno creativo, ¡queremos conocerte!        ",
-    date: "Mar 2018",
+      "Participé en el desarrollo de aplicaciones web interactivas, aplicando buenas prácticas de UI/UX y optimización de rendimiento. Fortalecí mis conocimientos en desarrollo frontend con tecnologías modernas y metodologías ágiles.",
+    date: "2018",
   },
 ];
 
@@ -146,9 +146,9 @@ export const dataCounter = [
 export const serviceData = [
   {
     icon: <Crop />,
-    title: "Branding",
+    title: "Dashboard y Visualización de Datos",
     description:
-      "Desarrollo de una identidad de marca sólida y coherente, incluyendo diseño de logotipo, colores y elementos visuales",
+      "Desarrollo de dashboards interactivos con Chart.js y Firebase.",
   },
   {
     icon: <Pencil />,
@@ -164,15 +164,15 @@ export const serviceData = [
   },
   {
     icon: <Book />,
-    title: "Copywriting",
+    title: "Desarrollo Backend",
     description:
-      "Creación de contenido persuasivo y atractivo que capta la atención de tu audiencia",
+      "Implementación de servidores y APIs RESTful con NodeJS, Express y MongoDB.",
   },
   {
     icon: <Rocket />,
-    title: "SEO",
+    title: "Metodologías Ágiles",
     description:
-      "Optimización de tu presencia en línea mediante estrategias de SEO avanzadas, ",
+      "Trabajo con SCRUM y Agile para una entrega eficiente y colaborativa en proyectos de desarrollo.",
   },
 ];
 
