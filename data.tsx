@@ -4,29 +4,26 @@ import {
   HomeIcon,
   UserRound,
   Linkedin,
-  Twitter,
-  Rss,
-  Twitch,
-  Youtube,
   Crop,
   Pencil,
   Computer,
   Book,
   Rocket,
   Speech,
+  Github,
 } from "lucide-react";
 
 export const socialNetworks = [
   {
     id: 1,
-    logo: <Youtube size={30} strokeWidth={1} />,
-    src: "#!",
+    logo: <Github size={30} strokeWidth={1} />,
+    src: "https://github.com/benja85a",
   },
   {
     id: 2,
     logo: <Linkedin size={30} strokeWidth={1} />,
-    src: "#!",
-  },
+    src: "https://www.linkedin.com/in/benjamin-rivas/",
+  }/* ,
   {
     id: 3,
     logo: <Twitter size={30} strokeWidth={1} />,
@@ -41,7 +38,7 @@ export const socialNetworks = [
     id: 5,
     logo: <Twitch size={30} strokeWidth={1} />,
     src: "#!",
-  },
+  }, */
 ];
 
 export const itemsNavbar = [
