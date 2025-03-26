@@ -14,7 +14,7 @@ const Introduction = () => {
         {/* Imagen */}
         <div className="flex justify-center">
           <Image
-            src="/rakiti.svg"
+            src="/Startup.svg"
             priority
             className="w-80 md:w-96"
             width="800"
