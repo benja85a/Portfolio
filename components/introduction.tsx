@@ -16,9 +16,9 @@ const Introduction = () => {
           <Image
             src="/Startup.svg"
             priority
-            className="w-80 md:w-96"
-            width="800"
-            height="800"
+            className="w-100 md:w-96"
+            width="900"
+            height="900"
             alt="profile pic"
           />
         </div>
