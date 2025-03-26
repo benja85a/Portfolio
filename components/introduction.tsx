@@ -9,12 +9,12 @@ const Introduction = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   return (
-    <div className="z-20 w-full bg-darkBg/60 pt-16">
-      <div className="z-20 grid items-center h-auto md:h-full p-6 md:py-0 md:grid-cols-2">
+    <div className="z-20 w-full bg-darkBg/60 pt-16 pb-50 sm:pb-0">
+      <div className="z-20 grid items-center h-auto md:h-full p-3 md:py-0 md:grid-cols-2">
         {/* Imagen */}
         <div className="flex justify-center">
           <Image
-            src="/home-4.png"
+            src="/rakiti.svg"
             priority
             className="w-80 md:w-96"
             width="800"

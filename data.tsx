@@ -23,7 +23,7 @@ export const socialNetworks = [
     id: 2,
     logo: <Linkedin size={30} strokeWidth={1} />,
     src: "https://www.linkedin.com/in/benjamin-rivas/",
-  }/* ,
+  } /* ,
   {
     id: 3,
     logo: <Twitter size={30} strokeWidth={1} />,
@@ -38,7 +38,7 @@ export const socialNetworks = [
     id: 5,
     logo: <Twitch size={30} strokeWidth={1} />,
     src: "#!",
-  }, */
+  }, */,
 ];
 
 export const itemsNavbar = [
@@ -101,7 +101,7 @@ export const dataAboutPage = [
   },
   {
     id: 4,
-    title: "Prácticas Grado",
+    title: "Prácticas",
     subtitle: "Universidad Francisco Gavidia",
     description:
       "Participé en el desarrollo de aplicaciones web interactivas, aplicando buenas prácticas de UI/UX y optimización de rendimiento. Fortalecí mis conocimientos en desarrollo frontend con tecnologías modernas y metodologías ágiles.",
@@ -112,29 +112,29 @@ export const dataAboutPage = [
 export const dataCounter = [
   {
     id: 0,
-    endCounter: 10,
+    endCounter: 2,
     text: "Años de experiencia",
     lineRight: true,
     lineRightMobile: true,
   },
   {
     id: 1,
-    endCounter: 80,
+    endCounter: 8,
     text: "Clientes satisfechos",
     lineRight: true,
     lineRightMobile: false,
   },
   {
     id: 2,
-    endCounter: 220,
+    endCounter: 20,
     text: "Proyectos finalizados",
     lineRight: true,
     lineRightMobile: true,
   },
   {
     id: 3,
-    endCounter: 30,
-    text: "Premios ganadores",
+    endCounter: 10,
+    text: "Tecnologias aprendidas",
     lineRight: false,
     lineRightMobile: false,
   },
@@ -215,7 +215,7 @@ export const dataPortfolio = [
     image: "/image-6.jpg",
     urlGithub: "#!",
     urlDemo: "#!",
-  },
+  }, 
   {
     id: 7,
     title: "Dark Web ",
@@ -229,50 +229,51 @@ export const dataPortfolio = [
     image: "/image-8.jpg",
     urlGithub: "#!",
     urlDemo: "#!",
-  },
+  }, 
 ];
 
 export const dataTestimonials = [
   {
     id: 1,
-    name: "George Snow",
+    name: "Carlos Martínez",
     description:
-      "¡Increíble plataforma! Los testimonios aquí son genuinos y me han ayudado a tomar decisiones informadas. ¡Altamente recomendado!",
+      "Estoy muy satisfecho con el sitio web que desarrolló para mi negocio. La interfaz es intuitiva y visualmente atractiva. Me ayudó a mejorar la experiencia de mis usuarios. ¡Excelente trabajo!",
     imageUrl: "/profile1.png",
   },
   {
     id: 2,
-    name: "Juan Pérez",
+    name: "Ana Rodríguez",
     description:
-      "Me encanta la variedad de testimonios disponibles en esta página. Es inspirador ver cómo otras personas han superado desafíos similares a los míos. ¡Gracias por esta invaluable fuente de motivación!",
+      "Contratar sus servicios fue una de las mejores decisiones que tomé. Mi página web ahora es más accesible y fácil de usar, gracias a su enfoque en diseño y funcionalidad. ¡Recomiendo totalmente sus servicios!",
     imageUrl: "/profile2.png",
   },
   {
     id: 3,
-    name: "María García",
+    name: "Luis Fernández",
     description:
-      "Excelente recurso para obtener opiniones auténticas sobre diferentes productos y servicios. Me ha ayudado mucho en mis compras en línea. ¡Bravo por este sitio!",
+      "Necesitaba un rediseño para mi página, y lo que entregó superó mis expectativas. La web es moderna, rápida, y la experiencia de navegación es excelente. ¡Estoy muy contento con el resultado!",
     imageUrl: "/profile3.png",
   },
   {
     id: 4,
-    name: "Laura Snow",
+    name: "Marta Gómez",
     description:
-      "¡Qué descubrimiento tan fantástico! Los testimonios aquí son honestos y detallados. Me siento más seguro al tomar decisiones después de leer las experiencias compartidas por otros usuarios.",
+      "Estoy encantada con mi sitio web. No solo está increíblemente bien diseñado, sino que también funciona perfectamente en dispositivos móviles. Ha mejorado mi presencia en línea enormemente.",
     imageUrl: "/profile4.png",
   },
   {
     id: 5,
-    name: "Carlos Sánchez",
+    name: "Fernando López",
     description:
-      "Una joya en la web. Los testimonios son fáciles de encontrar y están bien organizados. ¡Definitivamente mi destino número uno cuando necesito referencias confiables!",
+      "Gracias a su trabajo, mi página ahora es mucho más atractiva y funcional. Me ayudó a captar más clientes gracias a la mejora en la experiencia de usuario. ¡Totalmente satisfecho!",
     imageUrl: "/profile5.png",
   },
   {
     id: 6,
-    name: "Antonio Martínez",
+    name: "Sofía Ruiz",
     description:
-      "¡Fantástico recurso para aquellos que buscan validación antes de tomar decisiones importantes! Los testimonios aquí son veraces y realmente útiles. ¡Gracias por simplificar mi proceso de toma de decisiones!",
+      "El sitio web que me diseñó no solo es visualmente impresionante, sino que también está optimizado y es fácil de navegar. La atención al detalle y su enfoque en las necesidades del cliente son excepcionales.",
     imageUrl: "/profile6.png",
   },
 ];
+

@@ -27,7 +27,7 @@ const timeLine = () => {
                 </time>
                 <p className="text-xl font-bold text-gray-400">{data.subtitle}</p>
               </div>
-              <p className="text-slate-600 mt-3 max-w-md">{data.description}</p>
+              <p className="text-slate-400 mt-3 max-w-md">{data.description}</p>
             </div>
           ))}
         </div>
